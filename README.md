@@ -35,6 +35,8 @@ The AI works off of playing thousands of simulated games of Nim and records
 losing moves. I remember setting this off to run overnight on our server and
 waking up to thousands of losing moves recorded.
 
+**main file: nim.cpp**
+
 ## Simplex Method
 *Python*
 
