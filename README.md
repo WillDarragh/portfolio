@@ -13,6 +13,8 @@ This project shows off my work on my favorite language, C++.
 B Trees are one of the most complex data structures I've worked with,
 and I really enjoy building data structures like this from scratch.
 
+**main file: btree.cpp**
+
 ## Collatz Conjecture
 *Multiple Languages*
 
